@@ -1,6 +1,6 @@
-# Carlisle ✨
+# Persityle ✨
 
-Carlisle is a minimal template for a Hugo site. Carlisle is the basis for my custom theme mostly shared across
+Peristyle is a minimal template for a Hugo site. Peristyle is the basis for my custom theme mostly shared across
 
 ## License
 
